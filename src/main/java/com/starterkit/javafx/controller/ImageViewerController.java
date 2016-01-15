@@ -33,6 +33,9 @@ public class ImageViewerController {
 	@FXML
 	private URL location;
 
+	/*
+	 * REV: nie ma takiej kontrolki w FXMLu
+	 */
 	@FXML
 	private TextField nameField;
 
